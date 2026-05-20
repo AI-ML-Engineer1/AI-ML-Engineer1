@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/AI-ML-Engineer1">
-    <img src="https://readme-typing-svg.demolab.com/?lines=AI,ML%20Engineer;AI,%ML%20Engineer;AI,ML%20Engineer;7+Years%20of%20Learning%20Coding;Always%20Learning%20Great%20Things&font=Shantell+Sans&size=34&center=true&vCenter=true&width=500&height=60&color=f75c7e&pause=1000" align="center" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=AI,%20ML%20Engineer;7+Years%20of%20Learning%20Coding;Always%20Learning%20Great%20Things&font=Shantell+Sans&size=34&center=true&vCenter=true&width=500&height=60&color=f75c7e&pause=1000" align="center" /></a>
 </p>
 
 
