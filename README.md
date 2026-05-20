@@ -1,4 +1,22 @@
-# Hello! I’m Senior AI/ML Engineer with a strong passion for building intelligent, scalable, and high-performance AI solutions. Experienced in machine learning, deep learning, large language models (LLMs), and modern software development using Python, TypeScript, React, Next.js, and cloud technologies. Skilled in developing AI-powered applications, automation systems, data-driven platforms, and production-ready ML infrastructures. Passionate about integrating advanced AI into real-world products, optimizing system performance, and solving complex engineering challenges. Dedicated to delivering innovative, secure, and future-focused solutions that create meaningful impact through artificial intelligence and modern technology.
+<div align="center">
+    <p align='center'>
+  <img src='https://github-widgetbox.vercel.app/api/profile?username=AI-ML-Engineer1&theme=metropolis&data=followers,repositories,stars,commits' />
+    </p>    
+</div>
+
+<p align="center">
+  <a href="https://github.com/AI-ML-Engineer1">
+    <img src="https://readme-typing-svg.demolab.com/?lines=AI,ML%20Engineer;AI,%ML%20Engineer;AI,ML%20Engineer;7+Years%20of%20Learning%20Coding;Always%20Learning%20Great%20Things&font=Shantell+Sans&size=34&center=true&vCenter=true&width=500&height=60&color=f75c7e&pause=1000" align="center" /></a>
+</p>
+
+
+<p align="left" >
+  <a href="https://github.com/AI-ML-Engineer1">
+<img src="https://readme-typing-svg.demolab.com/?lines=About%20Me;About%20Me;About%20Me;About%20Me;&font=Shantell+Sans&size=24&center=true&vCenter=true&width=200&height=50&color=f75c7e&pause=800" align="center" />
+</a>
+</p>
+
+Hello! I’m Senior AI/ML Engineer with a strong passion for building intelligent, scalable, and high-performance AI solutions. Experienced in machine learning, deep learning, large language models (LLMs), and modern software development using Python, TypeScript, React, Next.js, and cloud technologies. Skilled in developing AI-powered applications, automation systems, data-driven platforms, and production-ready ML infrastructures. Passionate about integrating advanced AI into real-world products, optimizing system performance, and solving complex engineering challenges. Dedicated to delivering innovative, secure, and future-focused solutions that create meaningful impact through artificial intelligence and modern technology.
 
 ---
 ### 💬 My Github Journey:
