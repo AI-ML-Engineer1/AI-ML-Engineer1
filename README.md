@@ -19,17 +19,6 @@
 Hello! I’m Senior AI/ML Engineer with a strong passion for building intelligent, scalable, and high-performance AI solutions. Experienced in machine learning, deep learning, large language models (LLMs), and modern software development using Python, TypeScript, React, Next.js, and cloud technologies. Skilled in developing AI-powered applications, automation systems, data-driven platforms, and production-ready ML infrastructures. Passionate about integrating advanced AI into real-world products, optimizing system performance, and solving complex engineering challenges. Dedicated to delivering innovative, secure, and future-focused solutions that create meaningful impact through artificial intelligence and modern technology.
 
 ---
-### 💬 My Github Journey:
-
-![ Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AI-ML-Engineer1&theme=radical&hide_border=true) <br/> <br/> 
-<p>
-<a href="https://github.com/AI-ML-Engineer1">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aimaster-dev&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-
-
-
-</a>
-</p>
 
 
 
