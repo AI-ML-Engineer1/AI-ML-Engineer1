@@ -25,7 +25,7 @@ Hello! I’m Senior AI/ML Engineer with a strong passion for building intelligen
 <p>
 <a href="https://github.com/AI-ML-Engineer1">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aimaster-dev&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AI-ML-Engineer1&layout=compact&langs_count=12&theme=blue-green&count_private=true"/>
+
 
 
 </a>
