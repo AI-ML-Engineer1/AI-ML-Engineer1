@@ -16,7 +16,12 @@
 </a>
 </p>
 
-Hello! I’m Senior AI/ML Engineer with a strong passion for building intelligent, scalable, and high-performance AI solutions. Experienced in machine learning, deep learning, large language models (LLMs), and modern software development using Python, TypeScript, React, Next.js, and cloud technologies. Skilled in developing AI-powered applications, automation systems, data-driven platforms, and production-ready ML infrastructures. Passionate about integrating advanced AI into real-world products, optimizing system performance, and solving complex engineering challenges. Dedicated to delivering innovative, secure, and future-focused solutions that create meaningful impact through artificial intelligence and modern technology.
+Hello!  </br>
+I’m Senior AI/ML Engineer with a strong passion for building intelligent, scalable, and high-performance AI solutions. </br>
+Experienced in machine learning, deep learning, large language models (LLMs), and modern software development using Python, TypeScript, React, Next.js, and cloud technologies. </br>
+Skilled in developing AI-powered applications, automation systems, data-driven platforms, and production-ready ML infrastructures. </br>
+Passionate about integrating advanced AI into real-world products, optimizing system performance, and solving complex engineering challenges. </br>
+Dedicated to delivering innovative, secure, and future-focused solutions that create meaningful impact through artificial intelligence and modern technology.
 
 ---
 
